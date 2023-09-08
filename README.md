@@ -1,5 +1,5 @@
 # 概要
-[TsFreddie's MPC](https://tsdo.in/much-programming-core/)を用いたvortexcoreのカスタマイズファイルを管理するリポジトリ。
+[TsFreddie's MPC](https://tsdo.in/much-programming-core/)上で作成したvortexcoreのカスタマイズファイルを管理するリポジトリ。
 
 ## 管理方法
 作成した日付単位でディレクトリを作ってバージョン管理する。
@@ -12,7 +12,7 @@
 
 の3点構成とする。スクリーンショットがないとキーマッピングわかんなくなるので。
 
-## プロファイルの更新方法
+## プロファイルの更新方法(備忘録)
 1. [TsFreddie's MPC](https://tsdo.in/much-programming-core/) でカスタマイズ、バイナリファイルを生成。
 2. vortexcoreのUSBケーブルをPCから引っこ抜く
 3. vortexcore本体のFn + D キーを押した状態でUSBを差し直す。そうするとvortexcoreのファイルマネージャが立ち上がる。
